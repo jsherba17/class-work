@@ -1,0 +1,8 @@
+name = "notebook"
+model = "Lenovo"
+series = "Ideapad s145"
+cpu = "Intel Core i5-8256U"
+video = "Integrated"
+ram = "8Gb"
+screen = "15,6'' IPS "
+oc = "Windows 10, Linux Ubuntu"

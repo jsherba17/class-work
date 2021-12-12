@@ -1,0 +1,6 @@
+log = input('Enter a login: ')
+pas = input('Enter a password: ')
+my_file = open('users.txt', 'w')
+my_file.write(log)
+my_file.write(pas)
+my_file.close()
